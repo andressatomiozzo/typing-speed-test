@@ -32,6 +32,12 @@ Aplicação desenvolvida em React para treinar velocidade e precisão de digita�
 
 <br>
 
+## 👤 Como interagir com o projeto
+
+Acesse o [Link](https://andressatomiozzo.github.io/typing-speed-test/)
+
+<br>
+
 ## ⚙️ Como rodar o projeto
 
 ```bash
